@@ -1,0 +1,13 @@
+.title {
+    background-color: blue;
+    width: 130px;
+    margin: 0 auto;
+}
+
+.mainBox {
+    background-color: yellow;
+    height: 300px;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
